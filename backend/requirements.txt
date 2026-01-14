@@ -1,7 +1,7 @@
 fastapi==0.115.0
 uvicorn==0.30.6
 python-multipart==0.0.9
-tensorflow==2.15.0
+tensorflow==2.18.0
 numpy==1.26.4
 librosa==0.10.2
 soundfile==0.12.1
@@ -14,7 +14,6 @@ alembic==1.12.1
 pydantic==2.5.0
 pydantic-settings==2.1.0
 python-dotenv==1.0.0
-python-multipart==0.0.6
 asyncpg==0.29.0
 httpx==0.25.0
 
